@@ -11,4 +11,4 @@ You need to change some of the information and put yourself in place of the foll
 
 # Screens
 
-![GCS](https://github.com/azizoglu/FirebaseCloudMessaging/blob/master/Screen/fcm1.png) 
+![GCS](https://github.com/azizoglu/GoogleImageSearch/blob/master/Screen/gcs1.png) 
